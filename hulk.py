@@ -70,7 +70,7 @@ def buildblock(size):
 
 def usage():
 	print '---------------------------------------------------'
-	print 'USAGE: python hulk.py <url>'
+	print 'USAGE: python dosattack.py <url>'
 	print 'you can add "safe" after url, to autoshut after dos'
 	print '---------------------------------------------------'
 
