@@ -6,3 +6,4 @@ Steps to use this tool
 4) ctrl+c (to stop)
 
 And attacking on websites is illegal 
+This code is only for educational purpose
